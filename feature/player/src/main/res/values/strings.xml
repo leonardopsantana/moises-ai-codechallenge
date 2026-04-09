@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown">Unknown</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_track">Unknown Track</string>
+    <string name="album_cover">Album Cover</string>
+    <string name="no_album_art">No Album Art</string>
+    <string name="next">Next</string>
+    <string name="repeat">Repeat</string>
+    <string name="error_loading_song">Error loading song</string>
+</resources>
