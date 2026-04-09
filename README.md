@@ -23,3 +23,13 @@ Thank you for the opportunity to participate in this process.
   - Slider action to seek a specific position
 - Song timeline display (mandatory) and timeline seek support via drag (optional)
 - Thoughtful handling of portrait vs. landscape layouts
+
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="screenshots/Screenshot_20260408_221126.png" width="250" alt="Screenshot 1">
+  <img src="screenshots/Screenshot_20260408_221458.png" width="250" alt="Screenshot 2">
+  <img src="screenshots/Screenshot_20260408_221552.png" width="250" alt="Screenshot 3">
+  <img src="screenshots/Screenshot_20260408_230034.png" width="250" alt="Screenshot 4">
+</div>
+
