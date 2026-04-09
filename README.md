@@ -12,6 +12,7 @@ Thank you for the opportunity to participate in this process.
   - `feature/`: feature modules (`home`, `player`)
   - `build-logic/`: centralized custom Gradle convention plugins
 - MVVM with unidirectional data flow
+- Please note that in the pagination, API is sending same data even when a offset is set :)
 
 ## Bonus Items Implemented
 
