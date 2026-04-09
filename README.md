@@ -17,7 +17,6 @@ Thank you for the opportunity to participate in this process.
 ## Bonus Items Implemented
 
 - Error and state handling
-- Swipe-to-refresh
 - Repository organization
 - Player screen improvements:
   - Forward/backward actions
