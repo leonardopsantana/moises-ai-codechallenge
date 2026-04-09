@@ -107,19 +107,6 @@ class MediaPlayerWrapper(private val context: Context) {
         }
     }
 
-    fun getCurrentPosition(): Long {
-        return exoPlayer?.currentPosition ?: 0L
-    }
-
-    fun getDuration(): Long {
-        return exoPlayer?.duration ?: 0L
-    }
-
-    fun stop() {
-        exoPlayer?.stop()
-        stopPositionUpdates()
-    }
-
     fun release() {
         stopPositionUpdates()
         exoPlayer?.removeListener(playerListener)
